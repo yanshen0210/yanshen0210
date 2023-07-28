@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
   <br> [Code](https://github.com/yanshen0210/Digital-twin-assisted-imbalanced-fault-diagnosis-framework)
   - [FGDAE: A new machinery anomaly detection method towards complex operating conditions](https://www.sciencedirect.com/science/article/pii/S0951832023002338)
   <br> Journal: Reliability Engineering & System Safety
+  <br> [Code](https://github.com/yanshen0210/FGDAE-a-machinery-fault-detection-method)
   - [Hybrid robust convolutional autoencoder for unsupervised anomaly detection of machine tools under noises](https://www.sciencedirect.com/science/article/pii/S0736584522001259)
   <br> Journal: Robotics and Computer-Integrated Manufacturing
   <br> [Code](https://github.com/yanshen0210/HRCAE)
@@ -31,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 仓库 (Repositories)
 <!-- START -->
+- [FGDAE-a-machinery-fault-detection-method](https://github.com/yanshen0210/FGDAE-a-machinery-fault-detection-method) (2023-07-28)
 - [Digital-twin-assisted-imbalanced-fault-diagnosis-framework](https://github.com/yanshen0210/Digital-twin-assisted-imbalanced-fault-diagnosis-framework) (2023-07-26)
 - [HRCAE](https://github.com/yanshen0210/HRCAE) (2023-05-11)
 - [DGAT-LPS](https://github.com/yanshen0210/DGAT-LPS) (2023-05-10)
