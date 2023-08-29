@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi Everyone, i'm Yan Shen (颜深)👋
 - 😄现就读于[湖南大学机械与运载工程学院](http://mve.hnu.edu.cn/), 导师是[**邵海东副教授**](http://grjl.hnu.edu.cn/p/33AB569E530CC623A302A907DA8BDF95)
-- 🔭现研究方向包括**Fault diagnosis**, **Fault detection**, **Deep learning**, **Digital twin**, **Model lightweight** (Hope to do some interesting studies)
+- 🔭现研究方向包括**Fault diagnosis**, **Fault detection**, **Deep learning**, **Digital twin**, **Model lightweight**
+   <br>(Hope to do some interesting studies)
 - 🌱近年来以第一作者身份发表的论文如下 (Paper published as first author)：
   - [LiConvFormer: A lightweight fault diagnosis framework using separable multiscale convolution and broadcast self-attention](https://www.sciencedirect.com/science/article/pii/S0957417423018407)
   <br> Journal: Expert Systems With Applications
